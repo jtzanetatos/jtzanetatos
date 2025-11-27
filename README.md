@@ -1,12 +1,10 @@
-⟦ cyber-physical learning systems engineering ⟧
-
-⟦ under real-world constraints ⟧
-
-⟦ low-level curious ⟧
-
-⟦ autonomous systems curious ⟧
-
-⟦ status: online ⟧
+╔══════════════════════════════════════════════════════════╗
+║  ⟦ cyber-physical learning systems engineering ⟧          ║
+║  ⟦ under real-world constraints ⟧                        ║
+║  ⟦ low-level curious ⟧                                   ║
+║  ⟦ autonomous systems curious ⟧                          ║
+║  ⟦ status: online ⟧                                      ║
+╚══════════════════════════════════════════════════════════╝
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=650&lines=cyber-physical+learning+systems+engineering;under+real-world+constraints;low-level+curious;autonomous+systems+curious;time-series+%7C+vision+%7C+digital+twins+%7C+autonomy" />
