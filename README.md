@@ -189,7 +189,7 @@
 
 ```text
 > portfolio:   https://your-portfolio-url
-> linkedin:    [https://linkedin.com/in/iason-tzanetatos/](https://www.linkedin.com/in/iason-tzanetatos/)
+> linkedin:    https://linkedin.com/in/iason-tzanetatos/
 > email:       tzanetatosi@gmail.com
 > github:      https://github.com/jtzanetatos
 > status:      listening for interesting problems in
