@@ -161,8 +161,8 @@ signal processing -> feature extraction · transforms · filtering
 
 ```bash
 > portfolio:   https://your-portfolio-url
-> linkedin:    https://linkedin.com/in/your-handle
-> email:       your.email@domain.tld
+> linkedin:    [https://linkedin.com/in/iason-tzanetatos/](https://www.linkedin.com/in/iason-tzanetatos/)
+> email:       tzanetatosi@gmail.com
 > github:      https://github.com/jtzanetatos
 > status:      listening for interesting problems in
 >              time-series, cv, digital twins, autonomy, and ml systems.
@@ -171,10 +171,10 @@ signal processing -> feature extraction · transforms · filtering
   <a href="https://github.com/jtzanetatos">
     <img src="https://img.shields.io/badge/github-DA6F77?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-handle">
+  <a href="https://linkedin.com/in/iason-tzanetatos/">
     <img src="https://img.shields.io/badge/linkedin-DA6F77?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@domain.tld">
+  <a href="mailto:tzanetatosi@gmail.com">
     <img src="https://img.shields.io/badge/email-DA6F77?style=flat&logo=minutemailer&logoColor=white" />
   </a>
 </p>
