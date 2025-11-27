@@ -13,8 +13,8 @@
 </p>
 
 ---
-
-## > whoami
+<h2 style="color:#DA6F77;">&gt; whoami</h2>
+<div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
 
 ```bash
 > name:      iason tzanetatos
@@ -26,7 +26,9 @@
 
 ---
 
-## > stack
+<h2 style="color:#DA6F77;">&gt; stack</h2>
+<div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
+
 ```bash
 # core
 languages:     python | c | c++
@@ -66,7 +68,8 @@ background:    beng electrical & electronic systems
 
 ---
 
-## > domains_of_interest
+<h2 style="color:#DA6F77;">&gt; domains_of_interest</h2>
+<div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
 
 ```bash
 time-series       -> forecasting · anomaly · control
@@ -80,7 +83,9 @@ signal processing -> feature extraction · transforms · filtering
 
 ---
 
-## > current_status
+<h2 style="color:#DA6F77;">&gt; current_status</h2>
+<div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
+
 
 ```bash
 [+] building:  ml systems with real-time + deployment constraints
@@ -91,7 +96,8 @@ signal processing -> feature extraction · transforms · filtering
 
 ---
 
-[## > github_telemetry](https://github.com/jtzanetatos/jtzanetatos/blob/main/README.md)
+<h2 style="color:#DA6F77;">&gt; github_telemetry ░▒▓</h2>
+<div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jtzanetatos&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtzanetatos&layout=compact&theme=radical" />
@@ -99,7 +105,8 @@ signal processing -> feature extraction · transforms · filtering
 
 ---
 
-## > capabilities_grid
+<h2 style="color:#DA6F77;">&gt; capabilities_grid ░▒▓</h2>
+<div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
 <table>
   <tr>
     <td>
@@ -133,7 +140,9 @@ signal processing -> feature extraction · transforms · filtering
 
 ---
 
-## > projects_snapshot
+<h2 style="color:#DA6F77;">&gt; projects_snapshot</h2>
+<div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
+
 ```bash
 [ ] digital twin pipelines for physical systems
 [ ] time-series + anomaly detection stacks
@@ -145,7 +154,9 @@ signal processing -> feature extraction · transforms · filtering
 
 ---
 
-## > contact
+<h2 style="color:#DA6F77;">&gt; contact</h2>
+<div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
+
 ```bash
 > portfolio:   https://your-portfolio-url
 > linkedin:    https://linkedin.com/in/your-handle
