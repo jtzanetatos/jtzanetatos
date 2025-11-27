@@ -35,42 +35,39 @@
 
 ## > stack ░▒▓
 
-```bash
-# core
-languages:     python | c | c++
-numerics:      numpy · scipy
-dataframes:    pandas · polars
+> core
+  • languages      → python · c · c++
+  • numerics       → numpy · scipy
+  • dataframes     → pandas · polars
 
-# ml / dl
-frameworks:    pytorch · pytorch lightning · tensorflow/keras (familiar)
-classical:     scikit-learn (clustering, dr, trees, anomaly, segm, cls, reg)
-architectures: cnn · rnn/lstm/gru · gnns · neural operators
-               gan · contrastive learning · reservoir computing (esn)
-domains:       time-series forecasting · anomaly detection
-               computer vision (classical + deep) · segm · bg subtraction
-               object detection (yolo, sam-style models)
+> ml / dl
+  • frameworks     → pytorch · pytorch lightning · tensorflow/keras
+  • classical      → scikit-learn (clustering · dr · trees · anomaly · segm · cls · reg)
+  • architectures  → cnn · rnn/lstm/gru · gnns · neural operators
+  • generative     → gan · contrastive · reservoir computing (esn)
+  • domains        → time-series · anomaly · classical & deep cv · segmentation · bg subtraction
+                     object detection (yolo · sam models)
 
-# viz + notebooks
-notebooks:     jupyter · ipython
-viz:           matplotlib · seaborn · plotly/fast plotting
+> viz + notebooks
+  • notebooks      → jupyter · ipython
+  • viz            → matplotlib · seaborn · plotly/fast plotting
 
-# serving / infra
-apis:          fastapi · streamlit · nicegui
-containers:    docker · docker compose/services
-inference:     nvidia triton inference server
-storage:       sql dbs
-platform:      linux · embedded linux (yocto exposure)
+> serving / infra
+  • apis           → fastapi · streamlit · nicegui
+  • containers     → docker · compose/services
+  • inference      → nvidia triton inference server
+  • storage        → sql dbs
+  • platform       → linux · embedded linux (yocto)
 
-# llms / agents
-llm runtimes:  ollama · llama.cpp · lm studio
-orchestration: crew.ai · adk · dspy (agentic usage / pipelines)
+> llms / agents
+  • runtimes       → ollama · llama.cpp · lm studio
+  • orchestration  → crew.ai · adk · dspy
 
-# hardware / systems
-edge:          raspberry pi (pihole, dnscrypt-proxy, grafana)
-control:       3d printer w/ klipper
-background:    beng electrical & electronic systems
-               msc electronic systems engineering (dsp-heavy)
-```
+> hardware / systems
+  • edge           → raspberry pi (pihole · dnscrypt-proxy · grafana)
+  • control        → 3d printer w/ klipper
+  • background     → beng electrical & electronic systems
+                     msc electronic systems engineering (dsp-heavy)
 
 ---
 
