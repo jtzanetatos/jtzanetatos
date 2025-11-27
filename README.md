@@ -101,12 +101,12 @@ signal processing -> feature extraction · transforms · filtering
 
 ## > github_telemetry ░▒▓
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=jtzanetatos&show_icons=true&theme=radical" />
     </td>
-    <td align="center">
+    <td align="center" style="border: none; padding-left: 20px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtzanetatos&layout=compact&theme=radical" />
     </td>
   </tr>
