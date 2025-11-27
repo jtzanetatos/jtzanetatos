@@ -19,7 +19,9 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=650&lines=cyber-physical+learning+systems+engineering;under+real-world+constraints;low-level+curious;autonomous+systems+curious;time-series+%7C+vision+%7C+digital+twins+%7C+autonomy" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=650&lines=cyber-physical+learning+systems+engineering;under+real-world+constraints;low-level+curious;autonomous+systems+curious;time-series+%7C+vision+%7C+digital+twins+%7C+autonomy" />
+</p>
 
 ---
 
@@ -37,6 +39,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 ## > about_me ░▒▓ <a name="about_me"></a>
 
+```text
   • machine learning engineer with a background in electronic systems
       → beng electrical & electronic systems
       → msc electronic systems engineering (dsp-focused)
@@ -51,74 +54,31 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
   • interested in systems where hardware, signals, and intelligence meet
       → real-time constraints · physical modeling · robotics · control systems
-
----
-
-## > stack ░▒▓ <a name="stack"></a>
-
-```text
-> core
-  • languages      → python · c · c++
-  • numerics       → numpy · scipy
-  • dataframes     → pandas · polars
-
-> ml / dl
-  • frameworks     → pytorch · pytorch lightning · tensorflow/keras
-  • classical      → scikit-learn (clustering · dr · trees · anomaly · segm · cls · reg)
-  • architectures  → cnn · rnn/lstm/gru · gnns · neural operators
-  • generative     → gan · contrastive · reservoir computing (esn)
-  • domains        → time-series · anomaly · classical & deep cv · segmentation · bg subtraction
-                     object detection (yolo · sam models)
-
-> viz + notebooks
-  • notebooks      → jupyter · ipython
-  • viz            → matplotlib · seaborn · plotly/fast plotting
-
-> serving / infra
-  • apis           → fastapi · streamlit · nicegui
-  • containers     → docker · compose/services
-  • inference      → nvidia triton inference server
-  • storage        → sql dbs
-  • platform       → linux · embedded linux (yocto)
-
-> llms / agents
-  • runtimes       → ollama · llama.cpp · lm studio
-  • orchestration  → crew.ai · adk · dspy
-
-> hardware / systems
-  • edge           → raspberry pi (pihole · dnscrypt-proxy · grafana), arduino, esp32
-  • control        → 3d printer w/ klipper
-  • background     → beng electrical & electronic systems
-                     msc electronic systems engineering (dsp-heavy)
 ```
 
 ---
 
-## > domains_of_interest  ░▒▓ <a name="domains_of_interest"></a>
+## > stack_and_capabilities ░▒▓ <a name="stack"></a>
 
 ```text
-> domains_of_interest
+> core
+  • languages      → python · c · c++
+  • numerics       → numpy · scipy · pandas · polars
 
-  • time-series
-      → forecasting · anomaly · control
+> ml / dl / vision
+  • frameworks     → pytorch · lightning · tensorflow/keras
+  • classical      → scikit-learn · opencv · filtering/dsp
+  • architectures  → cnn · rnn/lstm · gnns · neural operators · gan
+  • tasks          → anomaly detection · segmentation · object detection (yolo/sam)
 
-  • vision
-      → classical cv · deep models
+> serving / infra
+  • apis           → fastapi · streamlit · nicegui
+  • runtime        → docker · nvidia triton · embedded linux (yocto)
+  • hardware       → raspberry pi · arduino · esp32
 
-  • digital twins
-      → ml surrogates · real-time inference
-
-  • autonomous systems
-      → perception · decision · control
-
-  • robotics
-      → ros2 (learning / exploring)
-
-  • low-level
-      → c/c++ · embedded · linux internals
-
-  • signal processing
-      → feature extraction · transforms · filtering
+> llms / agents
+  • local          → ollama · llama.cpp · lm studio
+  • orchestration  → crew.ai · adk · dspy
 ```
 
 ---
@@ -144,56 +104,39 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 ## > github_telemetry ░▒▓ <a name="github_telemetry"></a>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=jtzanetatos&show_icons=true&theme=radical" />
-    </td>
-    <td align="center" style="border: none; padding-left: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtzanetatos&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jtzanetatos&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtzanetatos&layout=compact&theme=radical&hide_border=true" height="160" />
+</div>
 
 ---
 
-## > projects_snapshot ░▒▓ <a name="projects_snapshot"></a>
+## > selected_projects ░▒▓ <a name="projects"></a>
 
-```text
-  [ ] digital twin pipelines for physical systems
-  [ ] time-series + anomaly detection stacks
-  [ ] cv-based detection / segmentation (classical + dl hybrids)
-  [ ] graph / structured models for physical systems
-  [ ] edge / embedded ml on raspberry pi
-  [ ] llm / agentic workflows on local models
-```
+> **[LMS-Adaptive-Filter](https://github.com/jtzanetatos/LMS-Adaptive-Filter)** <br>
+> `[ signal-processing ]` Utilization of LMS algorithm for adaptive filtering of a stochastic audio signal.
+>
+> **[EigenNets](https://github.com/jtzanetatos/EigenNets)** <br>
+> `[ ml-research ]` Examining performance of "classical" supervised training vs boosted training.
+>
+> **[DeepFake_Detection](https://github.com/jtzanetatos/DeepFake_Detection)** <br>
+> `[ computer-vision ]` Deep learning approaches to synthetic media detection.
+>
+> **[MSc_Dissertation](https://github.com/jtzanetatos/MSc_Dissertation)** <br>
+> `[ research ]` Unsupervised identification and tracking of objects using human interpretable algorithms.
 
 ---
 
-## > direct_links ░▒▓ <a name="direct_links"></a>
+## > contact_uplink ░▒▓ <a name="contact"></a>
+
 <p align="left">
-  <a href="https://github.com/jtzanetatos">
-    <img src="https://img.shields.io/badge/github-DA6F77?style=flat&logo=github&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/iason-tzanetatos/">
-    <img src="https://img.shields.io/badge/linkedin-DA6F77?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tzanetatosi@gmail.com">
-    <img src="https://img.shields.io/badge/email-DA6F77?style=flat&logo=minutemailer&logoColor=white" />
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-## > contact ░▒▓ <a name="contact"></a>
-
-```text
-> portfolio:   https://your-portfolio-url
-> linkedin:    https://linkedin.com/in/iason-tzanetatos/
-> email:       tzanetatosi@gmail.com
-> github:      https://github.com/jtzanetatos
-> status:      listening for interesting problems in
->              time-series, cv, digital twins, autonomy, and ml systems.
-```
-
-< system_state: idle | monitoring >
+> **status:** listening for interesting problems in time-series, cv, digital twins, autonomy. <br>
+> **system:** < system_state: idle | monitoring >
