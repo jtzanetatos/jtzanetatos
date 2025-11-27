@@ -136,7 +136,7 @@
 
 ---
 
-## > capabilities_grid
+## > capabilities_grid ░▒▓
 
 <table>
   <tr>
