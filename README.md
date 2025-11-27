@@ -2,8 +2,6 @@
 
 Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital twins, autonomy, and low-level / systems-first engineering.
 
-**Key strengths:** time-series & computer-vision pipelines · deployment & inference stacks · embedded & edge-ML · hardware ↔ software integration
-
 ---
 
 ## ◇ Quick Links ░▒▓
@@ -19,13 +17,11 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=650&lines=cyber-physical+learning+systems+engineering;under+real-world+constraints;low-level+curious;autonomous+systems+curious;time-series+%7C+vision+%7C+digital+twins+%7C+autonomy" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=650&lines=cyber-physical+learning+systems+engineering;under+real-world+constraints;low-level+curious;autonomous+systems+curious;time-series+%7C+vision+%7C+digital+twins+%7C+autonomy" /> </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## > whoami ░▒▓ <a name="whoami"></a>
+## 💾 > whoami ░▒▓ <a name="whoami"></a>
 
 ```text
 > name:      Iason Tzanetatos
@@ -35,12 +31,12 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 > os:        linux-native
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## > about_me ░▒▓ <a name="about_me"></a>
+## 👤 > about_me ░▒▓ <a name="about_me"></a>
 
 ```text
-  • machine learning engineer with a background in electronic systems
+• machine learning engineer with a background in electronic systems
       → beng electrical & electronic systems
       → msc electronic systems engineering (dsp-focused)
 
@@ -56,12 +52,12 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
       → real-time constraints · physical modeling · robotics · control systems
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## > stack_and_capabilities ░▒▓ <a name="stack"></a>
+## 🛠️ > stack_and_capabilities ░▒▓ <a name="stack"></a>
 
 ```text
-> core
+> core_languages
   • languages      → python · c · c++
   • numerics       → numpy · scipy · pandas · polars
 
@@ -70,6 +66,12 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
   • classical      → scikit-learn · opencv · filtering/dsp
   • architectures  → cnn · rnn/lstm · gnns · neural operators · gan
   • tasks          → anomaly detection · segmentation · object detection (yolo/sam)
+
+> mlops_&_ci_cd
+  • tracking       → mlflow
+  • pipelines      → dvc
+  • automation     → github actions
+  • versioning     → git · docker registries
 
 > serving / infra
   • apis           → fastapi · streamlit · nicegui
@@ -81,9 +83,9 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
   • orchestration  → crew.ai · adk · dspy
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## > current_status ░▒▓ <a name="current_status"></a>
+## 📡 > current_status ░▒▓ <a name="current_status"></a>
 
 ```text
   [+] building
@@ -100,18 +102,18 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
        → robotics · ros2 · autonomous systems pipelines
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## > github_telemetry ░▒▓ <a name="github_telemetry"></a>
+## 📊 > github_telemetry ░▒▓ <a name="github_telemetry"></a>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jtzanetatos&show_icons=true&theme=radical&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtzanetatos&layout=compact&theme=radical&hide_border=true" height="160" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## > selected_projects ░▒▓ <a name="projects"></a>
+## 📂 > selected_projects ░▒▓ <a name="projects"></a>
 
 > **[LMS-Adaptive-Filter](https://github.com/jtzanetatos/LMS-Adaptive-Filter)** <br>
 > `[ signal-processing ]` Utilization of LMS algorithm for adaptive filtering of a stochastic audio signal.
@@ -125,9 +127,9 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 > **[MSc_Dissertation](https://github.com/jtzanetatos/MSc_Dissertation)** <br>
 > `[ research ]` Unsupervised identification and tracking of objects using human interpretable algorithms.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## > contact_uplink ░▒▓ <a name="contact"></a>
+## 📟 > contact_uplink ░▒▓ <a name="contact"></a>
 
 <p align="left">
   <a href="https://linkedin.com/in/iason-tzanetatos/">
