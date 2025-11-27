@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=650&lines=cyber-physical+learning+systems+engineering;under+real-world+constraints;low-level+curious;autonomous+systems+curious;time-series+%7C+vision+%7C+digital+twins+%7C+autonomy" />
 </p>
+
 ---
 
 ## > whoami
@@ -76,14 +77,16 @@ signal processing -> feature extraction · transforms · filtering
 ---
 ## > github_telemetry
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jtzanetatos&show_icons=true&hide_title=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jtzanetatos&theme=tokyo-night&hide_border=true" />
 </p>
+
 ---
+
 ## > capabilities_grid
 <table>
   <tr>
@@ -115,7 +118,9 @@ signal processing -> feature extraction · transforms · filtering
     </td>
   </tr>
 </table>
+
 ---
+
 ## > projects_snapshot
 [ ] digital twin pipelines for physical systems
 [ ] time-series + anomaly detection stacks
@@ -134,9 +139,11 @@ signal processing -> feature extraction · transforms · filtering
 ---
 
 ## > contact
+```bash
 > portfolio:   https://your-portfolio-url
 > linkedin:    https://linkedin.com/in/your-handle
 > email:       your.email@domain.tld
 > github:      https://github.com/jtzanetatos
 > status:      listening for interesting problems in
 >              time-series, cv, digital twins, autonomy, and ml systems.
+```
