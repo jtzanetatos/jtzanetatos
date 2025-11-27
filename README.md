@@ -145,17 +145,6 @@ signal processing -> feature extraction · transforms · filtering
 
 ---
 
-## > philosophy
-```bash
-- prefer explicitness over clever clever hacks
-- treat data, signals, and hardware as first-class citizens
-- design for observability, not guesswork
-- build systems that survive real-world constraints
-- keep a foot in theory, another in deployment
-```
-
----
-
 ## > contact
 ```bash
 > portfolio:   https://your-portfolio-url
