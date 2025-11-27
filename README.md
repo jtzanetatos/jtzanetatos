@@ -11,6 +11,7 @@
 ---
 
 ## > whoami
+
 ```bash
 > name:      iason tzanetatos
 > role:      machine learning engineer / electronics systems engineer
@@ -58,8 +59,11 @@ control:       3d printer w/ klipper
 background:    beng electrical & electronic systems
                msc electronic systems engineering (dsp-heavy)
 ```
+
 ---
+
 ## > domains_of_interest
+
 ```bash
 time-series       -> forecasting · anomaly · control
 vision            -> classical cv + deep models
@@ -69,15 +73,20 @@ robotics          -> ros2 (learning / exploring)
 low-level         -> c/c++ · embedded · linux internals
 signal processing -> feature extraction · transforms · filtering
 ```
+
 ---
+
 ## > current_status
+
 ```bash
 [+] building:  ml systems with real-time + deployment constraints
 [+] exploring:  graph neural nets, neural operators for physical systems
 [+] tinkering:  raspberry pi setups · edge ml · 3d printing workflows
 [+] studying:   robotics / ros2 · autonomous systems pipelines
 ```
+
 ---
+
 ## > github_telemetry
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jtzanetatos&show_icons=true&hide_title=true&theme=tokyonight" />
