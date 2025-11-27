@@ -7,11 +7,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 ---
 
 ## ◇ Quick Links ░▒▓
-- [About Me](#about_me)
-- [Stack & Skills](#stack)
-- [Domains of Interest](#domains_of_interest)
-- [Current Status & Projects](#current_status)
-- [Contact](#contact)
+[About Me](#about_me) · [Stack & Skills](#stack) · [Current Status](#current_status) · [Projects](#projects) · [Contact](#contact)
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
@@ -23,9 +19,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=650&lines=cyber-physical+learning+systems+engineering;under+real-world+constraints;low-level+curious;autonomous+systems+curious;time-series+%7C+vision+%7C+digital+twins+%7C+autonomy" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=650&lines=cyber-physical+learning+systems+engineering;under+real-world+constraints;low-level+curious;autonomous+systems+curious;time-series+%7C+vision+%7C+digital+twins+%7C+autonomy" /> </p>
 
 ---
 
@@ -160,34 +154,6 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
     </td>
   </tr>
 </table>
-
----
-
-## > capabilities_grid ░▒▓ <a name="capabilities_grid"></a>
-
-```text
-> capabilities_grid
-
-  • ML Systems
-      → time-series · computer vision · digital twins
-      → classical + deep learning pipelines
-      → anomaly detection · forecasting
-
-  • Modeling
-      → cnn · rnn/lstm/gru · gnns
-      → neural operators · gan · contrastive
-      → reservoir computing (esn)
-
-  • Infra & Serving
-      → fastapi · streamlit · nicegui
-      → docker · triton inference server
-      → sql · linux · raspberry pi
-
-  • Tooling & LLMs
-      → jupyter · ipython · matplotlib · seaborn
-      → ollama · llama.cpp · lm studio
-      → crew.ai · adk · dspy (agentic)
-```
 
 ---
 
