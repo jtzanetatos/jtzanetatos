@@ -7,11 +7,11 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 ---
 
 ## ◇ Quick Links ░▒▓
-- [About Me](#about_me-░▒▓)
-- [Stack & Skills](#stack-░▒▓)
-- [Domains of Interest](#domains_of_interest-░▒▓)
-- [Current Status & Projects](#current_status-░▒▓)
-- [Contact](#contact-░▒▓)
+- [About Me](#about_me)
+- [Stack & Skills](#stack)
+- [Domains of Interest](#domains_of_interest)
+- [Current Status & Projects](#current_status)
+- [Contact](#contact)
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
