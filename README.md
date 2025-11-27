@@ -1,3 +1,18 @@
+# Iason Tzanetatos
+
+Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital twins, autonomy, and low-level / systems-first engineering.
+
+**Key strengths:** time-series & computer-vision pipelines · deployment & inference stacks · embedded & edge-ML · hardware ↔ software integration
+
+---
+
+## ◇ Quick Links ░▒▓
+- [About Me](#about_me-░▒▓)
+- [Stack & Skills](#stack-░▒▓)
+- [Domains of Interest](#domains_of_interest-░▒▓)
+- [Current Status & Projects](#current_status-░▒▓)
+- [Contact](#contact-░▒▓)
+
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║  ⟦ cyber-physical learning systems engineering ⟧          ║
@@ -17,19 +32,31 @@
 ## > whoami ░▒▓
 
 ```text
-> name:      iason tzanetatos
-> role:      machine learning engineer / electronics systems engineer
+> name:      Iason Tzanetatos
+> role:      machine learning engineer / electronic systems engineer
 > focus:     time-series · computer vision · digital twins · autonomy
 > mode:      python-first, low-level curious (c/c++), dsp-heavy
 > os:        linux-native
 ```
 
-<p align="left">
-  <img src="https://img.shields.io/badge/python-DA6F77?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/pytorch-DA6F77?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-DA6F77?style=flat&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-DA6F77?style=flat&logo=docker&logoColor=white" />
-</p>
+---
+
+## > about_me ░▒▓
+
+  • machine learning engineer with a background in electronic systems
+      → beng electrical & electronic systems
+      → msc electronic systems engineering (dsp-focused)
+
+  • working across cyber-physical systems, digital twins, autonomy
+      → time-series · computer vision · inference pipelines
+      → low-level + high-level system integration
+
+  • comfortable at multiple layers of the stack
+      → python-first · c/c++ curious · embedded linux · containers
+      → edge devices · raspberry pi · microcontrollers (arduino · esp32)
+
+  • interested in systems where hardware, signals, and intelligence meet
+      → real-time constraints · physical modeling · robotics · control systems
 
 ---
 
@@ -138,50 +165,57 @@
 
 ## > capabilities_grid ░▒▓
 
-<table>
-  <tr>
-    <td valign="top" style="padding: 8px 20px;">
-      <strong>ML Systems</strong><br/><br/>
-      time-series · cv · digital twins<br/>
-      classical ml + deep learning<br/>
-      anomaly detection · forecasting
-    </td>
-    <td valign="top" style="padding: 8px 20px;">
-      <strong>Modeling</strong><br/><br/>
-      cnn · rnn/lstm/gru · gnns<br/>
-      neural operators · gan · contrastive<br/>
-      reservoir computing (esn)
-    </td>
-  </tr>
+```text
+> capabilities_grid
 
-  <tr>
-    <td valign="top" style="padding: 8px 20px;">
-      <strong>Infra &amp; Serving</strong><br/><br/>
-      fastapi · streamlit · nicegui<br/>
-      docker · triton inference server<br/>
-      sql · linux · raspberry pi
-    </td>
-    <td valign="top" style="padding: 8px 20px;">
-      <strong>Tooling &amp; LLMs</strong><br/><br/>
-      jupyter · ipython · matplotlib · seaborn<br/>
-      ollama · llama.cpp · lm studio<br/>
-      crew.ai · adk · dspy (agentic)
-    </td>
-  </tr>
-</table>
+  • ML Systems
+      → time-series · computer vision · digital twins
+      → classical + deep learning pipelines
+      → anomaly detection · forecasting
+
+  • Modeling
+      → cnn · rnn/lstm/gru · gnns
+      → neural operators · gan · contrastive
+      → reservoir computing (esn)
+
+  • Infra & Serving
+      → fastapi · streamlit · nicegui
+      → docker · triton inference server
+      → sql · linux · raspberry pi
+
+  • Tooling & LLMs
+      → jupyter · ipython · matplotlib · seaborn
+      → ollama · llama.cpp · lm studio
+      → crew.ai · adk · dspy (agentic)
+```
 
 ---
 
 ## > projects_snapshot ░▒▓
 
 ```text
-[ ] digital twin pipelines for physical systems
-[ ] time-series + anomaly detection stacks
-[ ] cv-based detection/segmentation with classical + dl hybrids
-[ ] graph/structured models for relational or physical systems
-[ ] edge/embedded ml on raspberry pi
-[ ] llm/agentic workflows on local models
+  [ ] digital twin pipelines for physical systems
+  [ ] time-series + anomaly detection stacks
+  [ ] cv-based detection / segmentation (classical + dl hybrids)
+  [ ] graph / structured models for physical systems
+  [ ] edge / embedded ml on raspberry pi
+  [ ] llm / agentic workflows on local models
 ```
+
+---
+
+## > direct_links ░▒▓
+<p align="left">
+  <a href="https://github.com/jtzanetatos">
+    <img src="https://img.shields.io/badge/github-DA6F77?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/iason-tzanetatos/">
+    <img src="https://img.shields.io/badge/linkedin-DA6F77?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tzanetatosi@gmail.com">
+    <img src="https://img.shields.io/badge/email-DA6F77?style=flat&logo=minutemailer&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -195,14 +229,5 @@
 > status:      listening for interesting problems in
 >              time-series, cv, digital twins, autonomy, and ml systems.
 ```
-<p align="left">
-  <a href="https://github.com/jtzanetatos">
-    <img src="https://img.shields.io/badge/github-DA6F77?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/iason-tzanetatos/">
-    <img src="https://img.shields.io/badge/linkedin-DA6F77?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tzanetatosi@gmail.com">
-    <img src="https://img.shields.io/badge/email-DA6F77?style=flat&logo=minutemailer&logoColor=white" />
-  </a>
-</p>
+
+< system_state: idle | monitoring >
