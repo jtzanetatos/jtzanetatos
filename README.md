@@ -2,7 +2,7 @@
 
 Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital twins, autonomy, and low-level / systems-first engineering.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## ◇ Quick Links ░▒▓
 [About Me](#about_me) · [Stack & Skills](#stack) · [Current Status](#current_status) · [Projects](#projects) · [Contact](#contact)
