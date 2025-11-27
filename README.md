@@ -115,6 +115,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 ## 📂 > selected_projects ░▒▓ <a name="projects"></a>
 
+```text
 > **[LMS-Adaptive-Filter](https://github.com/jtzanetatos/LMS-Adaptive-Filter)** <br>
 > `[ signal-processing ]` Utilization of LMS algorithm for adaptive filtering of a stochastic audio signal.
 >
@@ -126,6 +127,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 >
 > **[MSc_Dissertation](https://github.com/jtzanetatos/MSc_Dissertation)** <br>
 > `[ research ]` Unsupervised identification and tracking of objects using human interpretable algorithms.
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
