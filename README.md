@@ -16,7 +16,7 @@
 
 ## > whoami ░▒▓
 
-```bash
+```text
 > name:      iason tzanetatos
 > role:      machine learning engineer / electronics systems engineer
 > focus:     time-series · computer vision · digital twins · autonomy
@@ -35,6 +35,7 @@
 
 ## > stack ░▒▓
 
+```text
 > core
   • languages      → python · c · c++
   • numerics       → numpy · scipy
@@ -68,12 +69,13 @@
   • control        → 3d printer w/ klipper
   • background     → beng electrical & electronic systems
                      msc electronic systems engineering (dsp-heavy)
+```
 
 ---
 
 ## > domains_of_interest  ░▒▓
 
-```bash
+```text
 time-series       -> forecasting · anomaly · control
 vision            -> classical cv + deep models
 digital twins     -> ml surrogates · real-time inference
@@ -87,7 +89,7 @@ signal processing -> feature extraction · transforms · filtering
 
 ## > current_status ░▒▓
 
-```bash
+```text
 [+] building:  ml systems with real-time + deployment constraints
 [+] exploring:  graph neural nets, neural operators for physical systems
 [+] tinkering:  raspberry pi setups · edge ml · 3d printing workflows
@@ -148,7 +150,7 @@ signal processing -> feature extraction · transforms · filtering
 
 ## > projects_snapshot ░▒▓
 
-```bash
+```text
 [ ] digital twin pipelines for physical systems
 [ ] time-series + anomaly detection stacks
 [ ] cv-based detection/segmentation with classical + dl hybrids
@@ -161,7 +163,7 @@ signal processing -> feature extraction · transforms · filtering
 
 ## > contact ░▒▓
 
-```bash
+```text
 > portfolio:   https://your-portfolio-url
 > linkedin:    [https://linkedin.com/in/iason-tzanetatos/](https://www.linkedin.com/in/iason-tzanetatos/)
 > email:       tzanetatosi@gmail.com
