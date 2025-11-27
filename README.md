@@ -134,20 +134,26 @@ signal processing -> feature extraction · transforms · filtering
 ---
 
 ## > projects_snapshot
+```bash
 [ ] digital twin pipelines for physical systems
 [ ] time-series + anomaly detection stacks
 [ ] cv-based detection/segmentation with classical + dl hybrids
 [ ] graph/structured models for relational or physical systems
 [ ] edge/embedded ml on raspberry pi
 [ ] llm/agentic workflows on local models
+```
 
 ---
+
 ## > philosophy
+```bash
 - prefer explicitness over clever clever hacks
 - treat data, signals, and hardware as first-class citizens
 - design for observability, not guesswork
 - build systems that survive real-world constraints
 - keep a foot in theory, another in deployment
+```
+
 ---
 
 ## > contact
