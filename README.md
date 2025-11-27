@@ -11,13 +11,16 @@
 ---
 
 ## > whoami
+```bash
 > name:      iason tzanetatos
 > role:      machine learning engineer / electronics systems engineer
 > focus:     time-series · computer vision · digital twins · autonomy
 > mode:      python-first, low-level curious (c/c++), dsp-heavy
 > os:        linux-native
+```
 
 ---
+
 ## > stack
 ```bash
 # core
