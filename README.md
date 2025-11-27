@@ -13,6 +13,7 @@
 </p>
 
 ---
+
 <h2 style="color:#DA6F77;">&gt; whoami</h2>
 <div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
 
@@ -98,6 +99,8 @@ signal processing -> feature extraction · transforms · filtering
 
 <h2 style="color:#DA6F77;">&gt; github_telemetry ░▒▓</h2>
 <div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
+
+<div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jtzanetatos&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtzanetatos&layout=compact&theme=radical" />
@@ -105,8 +108,9 @@ signal processing -> feature extraction · transforms · filtering
 
 ---
 
-<h2 style="color:#DA6F77;">&gt; capabilities_grid ░▒▓</h2>
+<h2 style="color:#DA6F77;">&gt; capabilities_grid </h2>
 <div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
+
 <table>
   <tr>
     <td>
@@ -140,7 +144,7 @@ signal processing -> feature extraction · transforms · filtering
 
 ---
 
-<h2 style="color:#DA6F77;">&gt; projects_snapshot</h2>
+<h2 style="color:#DA6F77;">&gt; projects_snapshot </h2>
 <div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
 
 ```bash
@@ -154,7 +158,7 @@ signal processing -> feature extraction · transforms · filtering
 
 ---
 
-<h2 style="color:#DA6F77;">&gt; contact</h2>
+<h2 style="color:#DA6F77;">&gt; contact </h2>
 <div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
 
 ```bash
