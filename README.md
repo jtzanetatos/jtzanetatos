@@ -63,7 +63,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 > ml / dl / vision
   • frameworks     → pytorch · lightning · tensorflow/keras
-  • classical      → scikit-learn · opencv · filtering/dsp
+  • classical      → scikit-learn · opencv · open3d · filtering/dsp
   • architectures  → cnn · rnn/lstm · gnns · neural operators · gan
   • tasks          → anomaly detection · segmentation · object detection (yolo/sam)
 
