@@ -29,7 +29,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 ---
 
-## > whoami ░▒▓
+## > whoami ░▒▓ <a name="whoami"></a>
 
 ```text
 > name:      Iason Tzanetatos
@@ -41,7 +41,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 ---
 
-## > about_me ░▒▓
+## > about_me ░▒▓ <a name="about_me"></a>
 
   • machine learning engineer with a background in electronic systems
       → beng electrical & electronic systems
@@ -60,7 +60,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 ---
 
-## > stack ░▒▓
+## > stack ░▒▓ <a name="stack"></a>
 
 ```text
 > core
@@ -100,7 +100,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 ---
 
-## > domains_of_interest  ░▒▓
+## > domains_of_interest  ░▒▓ <a name="domains_of_interest"></a>
 
 ```text
 > domains_of_interest
@@ -129,7 +129,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 ---
 
-## > current_status ░▒▓
+## > current_status ░▒▓ <a name="current_status"></a>
 
 ```text
   [+] building
@@ -148,7 +148,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 ---
 
-## > github_telemetry ░▒▓
+## > github_telemetry ░▒▓ <a name="github_telemetry"></a>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
@@ -163,7 +163,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 ---
 
-## > capabilities_grid ░▒▓
+## > capabilities_grid ░▒▓ <a name="capabilities_grid"></a>
 
 ```text
 > capabilities_grid
@@ -191,7 +191,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 ---
 
-## > projects_snapshot ░▒▓
+## > projects_snapshot ░▒▓ <a name="projects_snapshot"></a>
 
 ```text
   [ ] digital twin pipelines for physical systems
@@ -204,7 +204,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 ---
 
-## > direct_links ░▒▓
+## > direct_links ░▒▓ <a name="direct_links"></a>
 <p align="left">
   <a href="https://github.com/jtzanetatos">
     <img src="https://img.shields.io/badge/github-DA6F77?style=flat&logo=github&logoColor=white" />
@@ -219,7 +219,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 ---
 
-## > contact ░▒▓
+## > contact ░▒▓ <a name="contact"></a>
 
 ```text
 > portfolio:   https://your-portfolio-url
