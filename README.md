@@ -1,4 +1,4 @@
-```bash
+```text
 ╔══════════════════════════════════════════════════════════╗
 ║  ⟦ cyber-physical learning systems engineering ⟧          ║
 ║  ⟦ under real-world constraints ⟧                        ║
@@ -65,7 +65,7 @@
   • orchestration  → crew.ai · adk · dspy
 
 > hardware / systems
-  • edge           → raspberry pi (pihole · dnscrypt-proxy · grafana)
+  • edge           → raspberry pi (pihole · dnscrypt-proxy · grafana), arduino, esp32
   • control        → 3d printer w/ klipper
   • background     → beng electrical & electronic systems
                      msc electronic systems engineering (dsp-heavy)
@@ -76,13 +76,28 @@
 ## > domains_of_interest  ░▒▓
 
 ```text
-time-series       -> forecasting · anomaly · control
-vision            -> classical cv + deep models
-digital twins     -> ml surrogates · real-time inference
-autonomous sys    -> perception · decision · control
-robotics          -> ros2 (learning / exploring)
-low-level         -> c/c++ · embedded · linux internals
-signal processing -> feature extraction · transforms · filtering
+> domains_of_interest
+
+  • time-series
+      → forecasting · anomaly · control
+
+  • vision
+      → classical cv · deep models
+
+  • digital twins
+      → ml surrogates · real-time inference
+
+  • autonomous systems
+      → perception · decision · control
+
+  • robotics
+      → ros2 (learning / exploring)
+
+  • low-level
+      → c/c++ · embedded · linux internals
+
+  • signal processing
+      → feature extraction · transforms · filtering
 ```
 
 ---
@@ -90,10 +105,18 @@ signal processing -> feature extraction · transforms · filtering
 ## > current_status ░▒▓
 
 ```text
-[+] building:  ml systems with real-time + deployment constraints
-[+] exploring:  graph neural nets, neural operators for physical systems
-[+] tinkering:  raspberry pi setups · edge ml · 3d printing workflows
-[+] studying:   robotics / ros2 · autonomous systems pipelines
+  [+] building
+       → ml systems with real-time + deployment constraints
+
+  [+] exploring
+       → graph neural nets · neural operators for physical systems
+
+  [+] tinkering
+       → raspberry pi setups · edge ml · 3d printing workflows
+       → arduino · esp32 · sensors (iot / embedded interfacing)
+
+  [+] studying
+       → robotics · ros2 · autonomous systems pipelines
 ```
 
 ---
@@ -117,28 +140,29 @@ signal processing -> feature extraction · transforms · filtering
 
 <table>
   <tr>
-    <td>
-      <strong>ML Systems</strong><br/>
+    <td valign="top" style="padding: 8px 20px;">
+      <strong>ML Systems</strong><br/><br/>
       time-series · cv · digital twins<br/>
       classical ml + deep learning<br/>
       anomaly detection · forecasting
     </td>
-    <td>
-      <strong>Modeling</strong><br/>
+    <td valign="top" style="padding: 8px 20px;">
+      <strong>Modeling</strong><br/><br/>
       cnn · rnn/lstm/gru · gnns<br/>
       neural operators · gan · contrastive<br/>
       reservoir computing (esn)
     </td>
   </tr>
+
   <tr>
-    <td>
-      <strong>Infra &amp; Serving</strong><br/>
+    <td valign="top" style="padding: 8px 20px;">
+      <strong>Infra &amp; Serving</strong><br/><br/>
       fastapi · streamlit · nicegui<br/>
       docker · triton inference server<br/>
       sql · linux · raspberry pi
     </td>
-    <td>
-      <strong>Tooling &amp; LLMs</strong><br/>
+    <td valign="top" style="padding: 8px 20px;">
+      <strong>Tooling &amp; LLMs</strong><br/><br/>
       jupyter · ipython · matplotlib · seaborn<br/>
       ollama · llama.cpp · lm studio<br/>
       crew.ai · adk · dspy (agentic)
