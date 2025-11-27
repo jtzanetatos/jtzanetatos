@@ -1,7 +1,11 @@
 ⟦ cyber-physical learning systems engineering ⟧
+
 ⟦ under real-world constraints ⟧
+
 ⟦ low-level curious ⟧
+
 ⟦ autonomous systems curious ⟧
+
 ⟦ status: online ⟧
 
 <p align="center">
