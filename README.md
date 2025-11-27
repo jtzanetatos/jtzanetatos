@@ -14,8 +14,7 @@
 
 ---
 
-<h2 style="color:#DA6F77;">&gt; whoami</h2>
-<div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
+## > whoami ░▒▓
 
 ```bash
 > name:      iason tzanetatos
@@ -25,10 +24,16 @@
 > os:        linux-native
 ```
 
+<p align="left">
+  <img src="https://img.shields.io/badge/python-DA6F77?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/pytorch-DA6F77?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-DA6F77?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-DA6F77?style=flat&logo=docker&logoColor=white" />
+</p>
+
 ---
 
-<h2 style="color:#DA6F77;">&gt; stack</h2>
-<div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
+## > stack ░▒▓
 
 ```bash
 # core
@@ -69,8 +74,7 @@ background:    beng electrical & electronic systems
 
 ---
 
-<h2 style="color:#DA6F77;">&gt; domains_of_interest</h2>
-<div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
+## > domains_of_interest  ░▒▓
 
 ```bash
 time-series       -> forecasting · anomaly · control
@@ -84,9 +88,7 @@ signal processing -> feature extraction · transforms · filtering
 
 ---
 
-<h2 style="color:#DA6F77;">&gt; current_status</h2>
-<div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
-
+## > current_status ░▒▓
 
 ```bash
 [+] building:  ml systems with real-time + deployment constraints
@@ -97,8 +99,7 @@ signal processing -> feature extraction · transforms · filtering
 
 ---
 
-<h2 style="color:#DA6F77;">&gt; github_telemetry ░▒▓</h2>
-<div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
+## > github_telemetry ░▒▓
 
 <div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
 <p align="center">
@@ -108,8 +109,7 @@ signal processing -> feature extraction · transforms · filtering
 
 ---
 
-<h2 style="color:#DA6F77;">&gt; capabilities_grid </h2>
-<div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
+## > capabilities_grid
 
 <table>
   <tr>
@@ -128,13 +128,13 @@ signal processing -> feature extraction · transforms · filtering
   </tr>
   <tr>
     <td>
-      <strong>Infra & Serving</strong><br/>
+      <strong>Infra &amp; Serving</strong><br/>
       fastapi · streamlit · nicegui<br/>
       docker · triton inference server<br/>
       sql · linux · raspberry pi
     </td>
     <td>
-      <strong>Tooling & LLMs</strong><br/>
+      <strong>Tooling &amp; LLMs</strong><br/>
       jupyter · ipython · matplotlib · seaborn<br/>
       ollama · llama.cpp · lm studio<br/>
       crew.ai · adk · dspy (agentic)
@@ -144,8 +144,7 @@ signal processing -> feature extraction · transforms · filtering
 
 ---
 
-<h2 style="color:#DA6F77;">&gt; projects_snapshot </h2>
-<div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
+## > projects_snapshot ░▒▓
 
 ```bash
 [ ] digital twin pipelines for physical systems
@@ -158,8 +157,7 @@ signal processing -> feature extraction · transforms · filtering
 
 ---
 
-<h2 style="color:#DA6F77;">&gt; contact </h2>
-<div style="height:2px; background:#DA6F77; margin-top:-6px; margin-bottom:16px;"></div>
+## > contact ░▒▓
 
 ```bash
 > portfolio:   https://your-portfolio-url
@@ -169,3 +167,14 @@ signal processing -> feature extraction · transforms · filtering
 > status:      listening for interesting problems in
 >              time-series, cv, digital twins, autonomy, and ml systems.
 ```
+<p align="left">
+  <a href="https://github.com/jtzanetatos">
+    <img src="https://img.shields.io/badge/github-DA6F77?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-handle">
+    <img src="https://img.shields.io/badge/linkedin-DA6F77?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@domain.tld">
+    <img src="https://img.shields.io/badge/email-DA6F77?style=flat&logo=minutemailer&logoColor=white" />
+  </a>
+</p>
