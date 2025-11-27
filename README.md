@@ -94,7 +94,7 @@ signal processing -> feature extraction · transforms · filtering
 ## > github_telemetry
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jtzanetatos&show_icons=true&hide_title=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=jtzanetatos&theme=tokyonight" />
 </p>
 
 <p align="center">
