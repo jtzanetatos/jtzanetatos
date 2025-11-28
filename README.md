@@ -36,7 +36,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 ## 👤 > about_me ░▒▓ <a name="about_me"></a>
 
 ```text
-• machine learning engineer with a background in electronic systems
+  • machine learning engineer with a background in electronic systems
       → beng electrical & electronic systems
       → msc electronic systems engineering (dsp-focused)
 
