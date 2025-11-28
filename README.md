@@ -39,7 +39,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 ## 👤 > about_me ░▒▓ <a name="about_me"></a>
 
-```text
+
 • machine learning engineer with a background in electronic systems
       → beng electrical & electronic systems
       → msc electronic systems engineering (dsp-focused)
@@ -54,44 +54,44 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
   • interested in systems where hardware, signals, and intelligence meet
       → real-time constraints · physical modeling · robotics · control systems
-```
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ > stack_and_capabilities ░▒▓ <a name="stack"></a>
 
-```text
-> core_languages
+
+\> core_languages
   • languages      → python · c · c++
   • numerics       → numpy · scipy · pandas · polars
 
-> ml / dl / vision
+\> ml / dl / vision
   • frameworks     → pytorch · lightning · tensorflow/keras
   • classical      → scikit-learn · opencv · open3d · filtering/dsp
   • architectures  → cnn · rnn/lstm · gnns · neural operators · gan
   • tasks          → anomaly detection · segmentation · object detection (yolo/sam)
 
-> mlops_&_ci_cd
+\> mlops_&_ci_cd
   • tracking       → mlflow
   • pipelines      → dvc
   • automation     → github actions
   • versioning     → git · docker registries
 
-> serving / infra
+\> serving / infra
   • apis           → fastapi · streamlit · nicegui
   • runtime        → docker · nvidia triton · embedded linux (yocto)
   • hardware       → raspberry pi · arduino · esp32
 
-> llms / agents
+\> llms / agents
   • local          → ollama · llama.cpp · lm studio
   • orchestration  → crew.ai · adk · dspy
-```
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📡 > current_status ░▒▓ <a name="current_status"></a>
 
-```text
+
   [+] building
        → ml systems with real-time + deployment constraints
 
@@ -104,7 +104,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
   [+] studying
        → robotics · ros2 · autonomous systems pipelines
-```
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
