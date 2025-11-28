@@ -141,5 +141,5 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
   </a>
 </p>
 
-> **status:** listening for interesting problems in time-series, cv, digital twins, autonomy. <br>
-> **system:** < system_state: idle | monitoring >
+\> **status:** listening for interesting problems in time-series, cv, digital twins, autonomy. <br>
+\> **system:** < system_state: idle | monitoring >
