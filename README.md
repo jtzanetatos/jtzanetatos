@@ -23,13 +23,13 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 ## 💾 > whoami ░▒▓ <a name="whoami"></a>
 
-```text
-> name:      Iason Tzanetatos
-> role:      machine learning engineer / electronic systems engineer
-> focus:     time-series · computer vision · digital twins · autonomy
-> mode:      python-first, low-level curious (c/c++), dsp-heavy
-> os:        linux-native
-```
+
+\> name:      Iason Tzanetatos
+\> role:      machine learning engineer / electronic systems engineer
+\> focus:     time-series · computer vision · digital twins · autonomy
+\> mode:      python-first, low-level curious (c/c++), dsp-heavy
+\> os:        linux-native
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
