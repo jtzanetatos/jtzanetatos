@@ -25,9 +25,13 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 
 \> name:      Iason Tzanetatos
+
 \> role:      machine learning engineer / electronic systems engineer
+
 \> focus:     time-series · computer vision · digital twins · autonomy
+
 \> mode:      python-first, low-level curious (c/c++), dsp-heavy
+
 \> os:        linux-native
 
 
