@@ -115,14 +115,14 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 ## 📂 > selected_projects ░▒▓ <a name="projects"></a>
 
+\> **[DeepFake-Detection-Lab](https://github.com/jtzanetatos/deepfake-detection-lab)** <br>
+\> `[ computer-vision ]` Deep learning approaches to synthetic media detection.<br>
+
 \> **[LMS-Adaptive-Filter](https://github.com/jtzanetatos/LMS-Adaptive-Filter)** <br>
 \> `[ signal-processing ]` Utilization of LMS algorithm for adaptive filtering of a stochastic audio signal.<br>
 
 \> **[EigenNets](https://github.com/jtzanetatos/EigenNets)** <br>
 \> `[ ml-research ]` Examining performance of "classical" supervised training vs boosted training.
-
-\> **[DeepFake_Detection](https://github.com/jtzanetatos/DeepFake_Detection)** <br>
-\> `[ computer-vision ]` Deep learning approaches to synthetic media detection.<br>
 
 \> **[MSc_Dissertation](https://github.com/jtzanetatos/MSc_Dissertation)** <br>
 \> `[ research ]` Unsupervised identification and tracking of objects using human interpretable algorithms.<br>
