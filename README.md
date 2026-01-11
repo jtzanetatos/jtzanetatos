@@ -9,7 +9,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║  ⟦ cyber-physical learning systems engineering ⟧          ║
+║  ⟦ cyber-physical learning systems engineering ⟧         ║
 ║  ⟦ under real-world constraints ⟧                        ║
 ║  ⟦ low-level curious ⟧                                   ║
 ║  ⟦ autonomous systems curious ⟧                          ║
