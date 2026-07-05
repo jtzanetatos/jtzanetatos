@@ -116,7 +116,7 @@ Machine-Learning & Embedded Systems Engineer — cyber-physical systems, digital
 ## 📂 > selected_projects ░▒▓ <a name="projects"></a>
 
 \> **[Edge-Cortex](https://github.com/jtzanetatos/edge-cortex)** <br>
-\> `[ neuro-symbolic ]` Isolated autonomous agents that run a wind farm on the edge — and prove every decision.<br>
+\> `[ neuro-symbolic ]` Isolated autonomous agents that run a wind farm on the edge and prove every decision.<br>
 
 \> **[DeepFake-Detection-Lab](https://github.com/jtzanetatos/deepfake-detection-lab)** <br>
 \> `[ computer-vision ]` Deep learning approaches to synthetic media detection.<br>
